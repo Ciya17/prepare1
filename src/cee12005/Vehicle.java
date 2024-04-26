@@ -50,5 +50,6 @@ class Car extends Vehicle {
         super.drive(); // Calling superclass method
         System.out.println("Car is being driven.");
         System.out.println("heloooo world.");
+        System.out.println("world.");
     }
 }
